@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.title {
+    color: rgb(255, 255, 255);
+}
